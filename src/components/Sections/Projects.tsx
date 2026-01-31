@@ -3,6 +3,7 @@ import projectFresh from '../../assets/project-fresh.png';
 import projectRealEstate from '../../assets/project-real-estate.png';
 import projectStore from '../../assets/project-store.png';
 import projectCollab from '../../assets/project-collab.jpg';
+import projectFreshCard from '../../assets/project-fresh-card.jpg';
 
 const projects = [
     {
@@ -28,6 +29,12 @@ const projects = [
         desc: "Where Quality Meets Innovation. Building dreams into reality with excellence, integrity, and innovative design solutions.",
         img: projectRealEstate,
         link: "https://real-estate-p9j8.onrender.com/"
+    },
+    {
+        title: "Fresh by Hrite (Mobile UI)",
+        desc: "A sleek, modern mobile user interface for an organic grocery delivery app, featuring high-fidelity design elements and vibrant farm-fresh aesthetics.",
+        img: projectFreshCard,
+        link: "https://drive.google.com/file/d/1OC4iOmqHIh1q06OUN_o5DWMe2M2ii4hG/view?usp=sharing"
     }
 ];
 
