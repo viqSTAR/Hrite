@@ -14,6 +14,16 @@ const About: React.FC = () => {
                     </p>
                 </div>
             </div>
+
+            <div className="glass-panel profile-container" style={{ marginTop: '30px' }}>
+                <div className="profile-info">
+                    <h3 className="profile-name">Abhishek</h3>
+                    <span className="profile-role">Business Lead</span>
+                    <p style={{ color: 'var(--text-muted)' }}>
+                        Driving strategic growth and client partnerships to ensure every digital solution translates into real-world business value.
+                    </p>
+                </div>
+            </div>
         </section>
     );
 };
